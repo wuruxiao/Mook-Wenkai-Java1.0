@@ -5,3 +5,6 @@
 ## 第二周测试题
 * 时间换算[TimeTrans.java](TimeTrans.java)
 * 信号报告[SingnalReport.java](SingnalReport.java)
+## 第三周测试题
+* 奇偶个数[SingleCount.java](SingleCount.java)
+* 数字特征值[SymbolNum.java](SymbolNum.java)
