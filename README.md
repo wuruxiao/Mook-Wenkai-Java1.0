@@ -10,3 +10,4 @@
 * 数字特征值[SymbolNum.java](SymbolNum.java)
 ## 第四周测试题
 * 素数和[SumPrimeNum.java](SumPrimeNum.java)
+* 念整数[ReadNum](ReadNum.java)
