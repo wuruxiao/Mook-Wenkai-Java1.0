@@ -11,3 +11,5 @@
 ## 第四周测试题
 * 素数和[SumPrimeNum.java](SumPrimeNum.java)
 * 念整数[ReadNum](ReadNum.java)
+## 第五周测试题
+* 多项式加法[PloySum.java](PloySum.java)
